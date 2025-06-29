@@ -50,3 +50,12 @@
 1. قم بتحميل الملفات أو استنساخ المستودع:
 ```bash
 git clone https://github.com/your-username/simple-projects.git
+```
+[Instargram](https://www.instagram.com/easy_code_dz)
+[TikTok](https://www.tiktok.com/@easycodedz?_t=8pdlc7o7poL&_r=1)
+[Facebook](https://www.facebook.com/easycode.dz)
+[Telegram](https://t.me/easyCodeDz)
+[LinkedIN](https://www.linkedin.com/in/nour-el-houda-boumelha)
+
+
+
